@@ -26,4 +26,5 @@ print(zoo)
 print(zoo.index('lion'))
 print(zoo.index('lark'))
 
+#зачёт!
 

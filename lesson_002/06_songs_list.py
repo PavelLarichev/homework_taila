@@ -52,3 +52,6 @@ F = violator_songs_dict ['Blue Dress']
 сумма_других_песен = D+E+F
 
 print('Другие три песни звучат:', сумма_других_песен, 'минут')
+
+#TODO если ты используешь песню один раз, то не объявляй её как переменную, а вызывай сразу
+# sum = violator_songs_dict['Clean] + violator_songs_dict['Halo'] например

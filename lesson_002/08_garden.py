@@ -28,4 +28,4 @@ print(mad)
 fat = meadow_set-garden_set
 print(fat)
 
-
+#зачёт, хорошо
